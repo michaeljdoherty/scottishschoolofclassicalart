@@ -1,2 +1,0 @@
-# scottishschoolofclassicalart
-repository for website
